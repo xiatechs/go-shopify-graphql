@@ -17,7 +17,7 @@ import (
 	log "github.com/sirupsen/logrus"
 	"github.com/xiatechs/go-shopify-graphql/v4/rand"
 	"github.com/xiatechs/go-shopify-graphql/v4/utils"
-	"gopkg.in/guregu/null.v4"
+	null "gopkg.in/guregu/null.v4"
 )
 
 const (
