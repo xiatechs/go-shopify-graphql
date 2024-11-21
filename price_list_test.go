@@ -10,7 +10,7 @@ import (
 	"github.com/r0busta/go-shopify-graphql-model/graph/model"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-	"gopkg.in/guregu/null.v4"
+	null "gopkg.in/guregu/null.v4"
 )
 
 func TestPriceListServiceOp_GetAll(t *testing.T) {
